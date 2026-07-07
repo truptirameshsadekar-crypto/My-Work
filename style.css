@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(14, 2, 54);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1{
+    color: #47d8f5;
+    text-align: center;
+}
+h2{
+    color: #f1f831;
+    font-family: Arial, sans-serif;
+
+    
+}
+h3{
+    color: #ecef49;
+    font-family: Arial, sans-serif;
+    
+
+}
+h4{
+    color: #dffa75;
+    
+}
+li{
+    color: #d8e7a1;
+    
+}
+button{
+    background-color: #7dabe8;
+    color: rgb(25, 3, 85);
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-align: center;
+}
