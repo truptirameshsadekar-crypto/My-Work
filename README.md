@@ -1,2 +1,3 @@
-# My-first-website
-my HTML and CSS practice
+#My First Website
+
+This is my first website created using HTML.
